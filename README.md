@@ -2,10 +2,14 @@
     Hello! I'm a self-taught coder/designer with experience as a motion graphics artist, game developer, and web developer. I love creating engaging and immersive experiences using code, design, and animation.
 
 # Skills
-- *Programming Languages:* 
+- *experienced in:* 
     - C#
+    - react
+    - typescript
     - JavaScript
     - HTML/CSS
+    - Tailwind
+    - Bootstrap
 - *Design Tools:* 
     - Photoshop
     - Illustrator
